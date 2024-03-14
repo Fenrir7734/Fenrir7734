@@ -13,7 +13,7 @@
 
 </div>
 
-### I am Karol, student of the Lublin University of Technology and Junior Java/Angular Developer at [TTMS](https://ttms.pl/en/), currently living in Lublin, Poland. 
+### I am Karol, student of the Lublin University of Technology and Junior Java/Angular Developer at [TTMS](https://ttms.com/), currently living in Lublin, Poland. 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
