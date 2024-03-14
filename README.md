@@ -9,9 +9,6 @@
     <a href="https://www.linkedin.com/in/f3nrir/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://open.spotify.com/user/hitex666">
-      <img src="https://img.shields.io/badge/-@Karol%20Hetman-1ED760?style=for-the-badge&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/hitex666" alt="Spotify Badge">
-    </a>
   </div>
 
 </div>
